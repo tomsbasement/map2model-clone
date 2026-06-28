@@ -100,6 +100,3 @@ This folder intentionally does not include a build pipeline. The captured bundle
 
 This repository contains recovered/captured production assets, not original source code. Do not assume this grants a license to redistribute Map2Model code, branding, assets, or bundled third-party code.
 
-Before publishing this repository publicly, confirm you have the right to redistribute the captured assets. For a personal archive or recovery copy, a private repository is the safer default.
-
-Generated models may also require separate checks for map data, elevation data, imagery, attribution, commercial-use restrictions, and local laws.
